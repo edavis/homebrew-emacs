@@ -1,9 +1,10 @@
 homebrew-emacs
 ==============
 
-**UPDATE (2015-07-23):** You should probably use Alex Dunn's
-  [fork](https://github.com/dunn/homebrew-emacs) instead of this
-  repo. It has many more formulae and is much better maintained.
+**UPDATE (2015-08-03):** You should use the
+  [official homebrew-emacs tap](https://github.com/Homebrew/homebrew-emacs)
+  instead of this one. Many thanks to Alex Dunn for all the work to
+  make that happen!
 
 homebrew-emacs is a Homebrew tap for Emacs packages.
 
